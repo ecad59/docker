@@ -1,0 +1,16 @@
+{
+    "automerge": false,
+    "automergeType": "pr",
+    "baseBranches": [
+        "main"
+    ],
+    "reviewers": [
+        "ecad59"
+    ],
+    "assignAutomerge": true,
+    "labels": [
+        "renovatebot"
+    ],
+    "prConcurrentLimit":0,
+    "rebaseWhen": "behind-base-branch"
+}
